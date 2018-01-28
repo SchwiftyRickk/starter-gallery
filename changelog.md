@@ -4,9 +4,18 @@ Team membership:  RZ (Captain) & JL (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version 0.0.2*
+## *Version 0.0.3*
 
-Release Date: Janurary 27, 2018
+Release Date: Janurary 28, 2018
+
+## [0.0.3] - 2018-01-28
+### Added
+ - Added master template to reduce redundant contents
+ - Added base controller to render the web contents
+
+### Changed
+ - Changelog updated
+ - Simplified the views
 
 ## [0.0.2] - 2018-01-27
 ### Added
