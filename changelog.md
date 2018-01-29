@@ -4,9 +4,23 @@ Team membership:  RZ (Captain) & JL (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version 0.0.3*
+## *Version 0.0.4*
 
 Release Date: Janurary 28, 2018
+
+## [0.0.4] - 2018-01-28
+### Added
+ - Added database: comp4711
+ - Mapped database: comp4711
+ - File: _cell.php
+
+### Changed
+ - Changelog updated
+ - git ignore added: config/database.php
+ - Modified: controllers/Gallery.php
+ - Modified: views/gallery.php
+ - Modified: views/welcome.php
+ - Modified: controllers/Welcome.php
 
 ## [0.0.3] - 2018-01-28
 ### Added
